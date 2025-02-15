@@ -122,7 +122,7 @@ For more screenshots, check the **screenshots** folder in the repo.
 ## 🌍 Connect With Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Keshav0730-181717?style=for-the-badge&logo=github)](https://github.com/keshav0730)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KeshavMishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshav-mishra-0730/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KeshavMishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
 
 ---
 
