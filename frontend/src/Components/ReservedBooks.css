@@ -1,0 +1,54 @@
+.reservedbooks-container {
+    background-color: rgb(16, 25, 13);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
+}
+
+.reservedbooks-title {
+    color: rgb(238, 129, 30);
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 8px rgba(238, 129, 30, 0.5);
+}
+
+.reservedbooks-table {
+    font-family: "Arial", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+}
+
+.reservedbooks-table th, .reservedbooks-table td {
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    text-align: left;
+    padding: 12px;
+    font-size: 18px;
+}
+
+.reservedbooks-table th {
+    background-color: rgb(238, 129, 30);
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.reservedbooks-table td {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+.reservedbooks-table tbody tr:hover {
+    background-color: rgba(238, 129, 30, 0.4);
+    transition: background-color 0.3s ease-in-out;
+    cursor: pointer;
+}
