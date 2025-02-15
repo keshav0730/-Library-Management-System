@@ -16,7 +16,7 @@ function PhotoGallery() {
                 <img src="https://images.unsplash.com/photo-1516979187457-637abb4f9353" alt="Literature Books"/>
                 <img src="https://images.unsplash.com/photo-1516979187457-637abb4f9353" alt="Open Book"/>
                 <img src="https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a" alt="Student in Library"/>
-                <img src="https://images.unsplash.com/photo-1571302320412-6c42bb30b759" alt="Stack of Books"/>
+                <img src="https://images.unsplash.com/photo-1549923746-c502d488b3ea" alt="Stack of Books"/>
             </div>
             <button>VIEW MORE <ArrowForwardIosIcon style={{fontSize:20}}/></button>
         </div>
