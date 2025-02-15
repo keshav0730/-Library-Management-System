@@ -11,7 +11,7 @@ function Allbooks() {
             alt=""
           ></img>
           <p className="bookcard-title">Wings Of Fire</p>
-          <p className="bookcard-author">By Pranavdhar</p>
+          <p className="bookcard-author">By Keshav</p>
           <div className="bookcard-category">
             <p>Auto Biography</p>
           </div>

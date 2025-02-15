@@ -5,20 +5,20 @@ import ArrowForwardIosIcon from '@material-ui/icons/ArrowForwardIos';
 function PhotoGallery() {
     return (
         <div className='photogallery-container'>
-            <h1 className='photogallery-title'>Photo Gallery</h1>
+            <h1 className='photogallery-title'>📚 Library Photo Gallery</h1>
             <div className="photogallery-images">
-                <img src="https://source.unsplash.com/1300x1200/?algeria" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?lebanon" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?qatar" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?uae" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?kuwait" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?oman" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?turkey" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?iran" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?jordan" alt=''/>
-                <img src="https://source.unsplash.com/1300x1200/?Kuwait" alt=''/>
+                <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794" alt="Bookshelf"/>
+                <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f" alt="Library"/>
+                <img src="https://images.unsplash.com/photo-1519682337058-a94d519337bc" alt="Person Reading"/>
+                <img src="https://images.unsplash.com/photo-1529070538774-1843cb3265df" alt="Old Books"/>
+                <img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66" alt="Study Area"/>
+                <img src="https://images.unsplash.com/photo-1549388604-817d15aa0110" alt="Bookstore"/>
+                <img src="https://images.unsplash.com/photo-1516979187457-637abb4f9353" alt="Literature Books"/>
+                <img src="https://images.unsplash.com/photo-1516979187457-637abb4f9353" alt="Open Book"/>
+                <img src="https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a" alt="Student in Library"/>
+                <img src="https://images.unsplash.com/photo-1571302320412-6c42bb30b759" alt="Stack of Books"/>
             </div>
-            <button>VIEW MORE<ArrowForwardIosIcon style={{fontSize:20}}/></button>
+            <button>VIEW MORE <ArrowForwardIosIcon style={{fontSize:20}}/></button>
         </div>
     )
 }
