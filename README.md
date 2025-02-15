@@ -1,4 +1,3 @@
-Here's a redesigned version of your README with a professional touch and your details updated:  
 
 ---
 
@@ -8,9 +7,7 @@ A full-stack **MERN** web application to efficiently manage library operations, 
 
 ![Library Management System](https://user-images.githubusercontent.com/73348574/205624307-6a1b18fa-5ef7-4de9-b141-9225eca62c6c.png)  
 
-## 🎥 Video Demo  
 
-[▶ Watch Demo](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)  
 
 💖 Show some **love** by 🌟 starring the repo!  
 
